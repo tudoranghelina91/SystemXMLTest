@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>  
+<transactions>  
+   <transaction>  
+      <id>123456789</id>  
+      <amount>1.00</amount>  
+      <currency>USD</currency>  
+      <time>2007-08-03T22:05:13-07:00</time>  
+   </transaction>  
+</transactions>
